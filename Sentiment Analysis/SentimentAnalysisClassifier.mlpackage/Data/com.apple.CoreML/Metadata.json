@@ -1,0 +1,11 @@
+{
+  "MLModelVersionStringKey" : "--",
+  "MLModelDescriptionKey" : "This project will contain model that will help mark text as positive, negative on neutral.\n",
+  "MLModelCreatorDefinedKey" : {
+    "com.apple.coreml.model.preview.type" : "textClassifier",
+    "com.apple.createml.app.version" : "5.0",
+    "com.apple.createml.app.tag" : "121.1"
+  },
+  "MLModelAuthorKey" : "Ankur Batta",
+  "MLModelLicenseKey" : "--"
+}

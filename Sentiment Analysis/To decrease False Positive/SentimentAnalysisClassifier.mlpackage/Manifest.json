@@ -1,0 +1,24 @@
+{
+    "fileFormatVersion": "1.0.0",
+    "itemInfoEntries": {
+        "0B340FD4-4B62-4C5D-A8E6-AF09406BCEB8": {
+            "author": "com.apple.CoreML",
+            "description": "CoreML Model Specification",
+            "name": "SentimentAnalysisClassifier.mlmodel",
+            "path": "com.apple.CoreML/SentimentAnalysisClassifier.mlmodel"
+        },
+        "956D2332-5231-4CE1-9CE4-03B217C2BBFE": {
+            "author": "com.apple.CoreML",
+            "description": "External FeatureDescription Overlay",
+            "name": "FeatureDescriptions.json",
+            "path": "com.apple.CoreML/FeatureDescriptions.json"
+        },
+        "FC8BAF76-6299-4457-A5D7-4157DEEF744F": {
+            "author": "com.apple.CoreML",
+            "description": "External Metadata Overlay",
+            "name": "Metadata.json",
+            "path": "com.apple.CoreML/Metadata.json"
+        }
+    },
+    "rootModelIdentifier": "0B340FD4-4B62-4C5D-A8E6-AF09406BCEB8"
+}
